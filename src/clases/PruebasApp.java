@@ -32,6 +32,10 @@ public class PruebasApp {
         //Línea de código nueva que me dará el apellido de la persona
         
         System.out.println(p1.getApellidos());
+        
+        //Línea de codigo nueva que me dará la dirección de la persona
+        
+        System.out.println(p1.getDireccion());
     }
     
 }
