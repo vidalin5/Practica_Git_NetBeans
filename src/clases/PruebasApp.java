@@ -28,6 +28,10 @@ public class PruebasApp {
         p1.setEstatura(1.80f);
         
         System.out.println(p1.estaturaCentimetros(p1.getEstatura()));
+        
+        //Línea de código nueva que me dará el apellido de la persona
+        
+        System.out.println(p1.getApellidos());
     }
     
 }
